@@ -1,0 +1,10 @@
+E:\code test\c c++\bt b3\bt b3\bin\Debug\bt b3.exe.config
+E:\code test\c c++\bt b3\bt b3\bin\Debug\bt b3.exe
+E:\code test\c c++\bt b3\bt b3\bin\Debug\bt b3.pdb
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt b3.csproj.AssemblyReference.cache
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt_b3.Form1.resources
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt_b3.Properties.Resources.resources
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt b3.csproj.GenerateResource.cache
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt b3.csproj.CoreCompileInputs.cache
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt b3.exe
+E:\code test\c c++\bt b3\bt b3\obj\Debug\bt b3.pdb
